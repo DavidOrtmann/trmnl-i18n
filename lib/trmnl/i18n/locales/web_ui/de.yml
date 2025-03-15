@@ -26,7 +26,7 @@ de:
   developer_edition_required: Die TRMNL Developer edition wird für dieses Feature vorausgesetzt.
   device_id: Gerätekennung
   edit: Ändern
-  email_address: E-Mail Adresse
+  email_address: E-Mail-Adresse
   export: Export
   fetching: Fetching
   first_name: Vorname
@@ -48,12 +48,12 @@ de:
   my_playlist: Meine Wiedergabeliste
   new_password: Neues Passwort
   password: Passwort
-  please_wait: Please Wait... # similar to "Fetching", but shown after a long process button click vs on page-load
+  please_wait: Bitte warten... # similar to "Fetching", but shown after a long process button click vs on page-load
   plugin_not_found: Plugin nicht gefunden
   refresh_rates_hint: Weitere Informationen zur Aktualisierungsrate __hier__.
   reset_password: Passwort zurücksetzen
   save: Speichern
-  section: Section
+  section: Abschnitt
   sign_in: Anmelden # login form cta
   sign_up: Registrieren # logged out navigation
   something_went_wrong: Etwas ist schiefgelaufen
@@ -67,7 +67,7 @@ de:
     index:
       title: Konto
       tagline: Verwalte deine Kontoeinstellungen
-      email_address: E-Mail Adresse
+      email_address: E-Mail-Adresse
       refer_and_earn: Weiterempfehlen
       refer_and_earn_hint: Empfehle TRMNL mit einem personalisierten Code weiter. Verdiene pro Einlösung, monatlich ausgezahlt.
       refer_and_earn_redemptions: Einlösungen # how many times this coupon has been used
@@ -208,7 +208,7 @@ de:
       time: Zeit
   markups:
     form:
-      back_to_plugin_settings: Zurpck zu den Plugin-Einstellungen
+      back_to_plugin_settings: Zurück zu den Plugin-Einstellungen
       design_system: Nutze unser natives Design-System
       design_system_docs: Dokumentation anzeigen
       dirty_confirm: Es gibt nicht gespeicherte Änderungen. Möchtest Du diese Seite wirklich verlassen?
