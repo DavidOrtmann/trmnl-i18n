@@ -899,7 +899,7 @@ de:
       window_hours: nächste %{count} Stunden
       window_label: Wie weit vorausgeschaut werden soll
       window_option: "%{count}h"
-      render_marker: Rendere gerade
+      render_marker: Anzeige wird gerendert
       asleep_window: Schläft %{from} → %{to} (%{duration})
     hold:
       success: Gehalten. Dein Gerät zeigt diesen Bildschirm bei der nächsten Aktualisierung.
